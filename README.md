@@ -5,9 +5,6 @@
 <p align='center'>Feel free to surf through my repos and check my work</p>
 
 <p align='center'>
-<a href="https://wa.me/2348087723258?text=Hello Olamide I am..." target="_blank">
-  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
 <a href="https://twitter.com/olamideaboyeji" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
