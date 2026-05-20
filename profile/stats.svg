@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Olamide Aboyeji's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 46, Total Commits  (last year) : 762, Total PRs: 553, Total Issues: 30, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 46, Total Commits  (last year) : 763, Total PRs: 553, Total Issues: 30, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 62.11796807350457;
+        stroke-dashoffset: 62.10394533891982;
       }
     }
   
@@ -159,7 +159,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Stars Earned:</text>
       <text
         class="stat  bold"
-        x="224.01"
+        x="219.01"
         y="12.5"
         data-testid="stars"
       >46</text>
@@ -174,10 +174,10 @@
       <text class="stat  bold" x="25" y="12.5">Total Commits (last year):</text>
       <text
         class="stat  bold"
-        x="224.01"
+        x="219.01"
         y="12.5"
         data-testid="commits"
-      >762</text>
+      >763</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -189,7 +189,7 @@
       <text class="stat  bold" x="25" y="12.5">Total PRs:</text>
       <text
         class="stat  bold"
-        x="224.01"
+        x="219.01"
         y="12.5"
         data-testid="prs"
       >553</text>
@@ -204,7 +204,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Issues:</text>
       <text
         class="stat  bold"
-        x="224.01"
+        x="219.01"
         y="12.5"
         data-testid="issues"
       >30</text>
@@ -219,7 +219,7 @@
       <text class="stat  bold" x="25" y="12.5">Contributed to (last year):</text>
       <text
         class="stat  bold"
-        x="224.01"
+        x="219.01"
         y="12.5"
         data-testid="contribs"
       >15</text>
